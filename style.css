@@ -1,0 +1,19 @@
+＊ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: blue;
+}
+
+header {
+  width: 90%;
+  padding: 20px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nav-list {
+text-align: center;
+padding: 15px 0;
+margin: 0 auto;
+}
